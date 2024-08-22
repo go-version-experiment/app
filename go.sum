@@ -1,0 +1,4 @@
+github.com/go-version-experiment/baselib v0.2.0 h1:yusOIZhD350qEcuwwcXobetlysau1GoQDsMkDwYGumk=
+github.com/go-version-experiment/baselib v0.2.0/go.mod h1:GObEHhYfA2mLia/pb8cuQ7EPpGYnq4BiU3B81201YCc=
+github.com/go-version-experiment/seclib v0.1.0 h1:qMlFL2Wovgp+O0/3KNlyMouR6+hGsGmplsxztEpwnl4=
+github.com/go-version-experiment/seclib v0.1.0/go.mod h1:OTGXbe2TVSP66kLWrsglkhjJ7M8Nf3kXId+25LCuGwE=
